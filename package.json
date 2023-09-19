@@ -1,0 +1,13 @@
+{
+  "name": "runeexeserver",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@fastify/static": "^6.11.2",
+    "fastify": "^4.23.2"
+  }
+}
